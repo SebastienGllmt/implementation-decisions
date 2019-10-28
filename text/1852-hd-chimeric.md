@@ -75,7 +75,7 @@ We extend the derivation scheme for Cardano wallets to support Chimeric wallets.
 # Decision
 [Decision]: #decision
 
-### Decision #1: Extension to the Icarus BIP44 model
+### Decision #1: Extension the Icarus BIP44 model
 
 Recall that BIP44 specifies the following derivation path
 
